@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.app.joyrajlongjam">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.CoronaHelpline">
+        <activity android:name="com.app.joyrajlongjam.bb"></activity>
+        <activity android:name="com.app.joyrajlongjam.medicine" />
+        <activity android:name="com.app.joyrajlongjam.wb" />
+        <activity android:name="com.app.joyrajlongjam.rajasthan" />
+        <activity android:name="com.app.joyrajlongjam.punjab" />
+        <activity android:name="com.app.joyrajlongjam.nagaland" />
+        <activity android:name="com.app.joyrajlongjam.mizoram" />
+        <activity android:name="com.app.joyrajlongjam.meghalaya" />
+        <activity android:name="com.app.joyrajlongjam.manipur" />
+        <activity android:name="com.app.joyrajlongjam.maharashtra" />
+        <activity android:name="com.app.joyrajlongjam.madhya" />
+        <activity android:name="com.app.joyrajlongjam.kerala" />
+        <activity android:name="com.app.joyrajlongjam.karnataka" />
+        <activity android:name="com.app.joyrajlongjam.uttarakhand" />
+        <activity android:name="com.app.joyrajlongjam.uttarpradesh" />
+        <activity android:name="com.app.joyrajlongjam.tripura" />
+        <activity android:name="com.app.joyrajlongjam.sikkim" />
+        <activity android:name="com.app.joyrajlongjam.hyderabad" />
+        <activity android:name="com.app.joyrajlongjam.tamilnadu" />
+        <activity android:name="com.app.joyrajlongjam.odisha" />
+        <activity android:name="com.app.joyrajlongjam.jharkhand" />
+        <activity android:name="com.app.joyrajlongjam.himachalpradesh" />
+        <activity android:name="com.app.joyrajlongjam.haryana" />
+        <activity android:name="com.app.joyrajlongjam.gujarat" />
+        <activity android:name="com.app.joyrajlongjam.goa" />
+        <activity android:name="com.app.joyrajlongjam.chatisgarh" />
+        <activity android:name="com.app.joyrajlongjam.bihar" />
+        <activity android:name="com.app.joyrajlongjam.assam" />
+        <activity android:name="com.app.joyrajlongjam.aruna" />
+        <activity android:name="com.app.joyrajlongjam.andhra" />
+        <activity android:name="com.app.joyrajlongjam.miki" />
+        <activity android:name="com.app.joyrajlongjam.joy" />
+        <activity android:name="com.app.joyrajlongjam.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
